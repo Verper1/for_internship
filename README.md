@@ -12,6 +12,6 @@ pyspark_task - модуль, который в одном датафрейме �
 > Для запуска test_pyspark_task требуется 11 java
 
 ## Как скачать репо: 
-1. ```git clone https://github.com/Verper1/for_internship.git
-2. ```uv sync
-3. ```pytest
+1. ```git clone https://github.com/Verper1/for_internship.git```
+2. ```uv sync```
+3. ```pytest```
